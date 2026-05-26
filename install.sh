@@ -8,7 +8,7 @@ set -eu
 INSTALL_DIR="${HOME}/bin"
 BIN_NAME="release-summary"
 REPO="DavidMachile/release-summary"
-BRANCH="main"
+BRANCH="master"
 RAW_URL="https://raw.githubusercontent.com/${REPO}/${BRANCH}/${BIN_NAME}.sh"
 
 GREEN='\033[0;32m'

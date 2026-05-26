@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # release-summary — 自动生成 Git 发版变更摘要
-# https://github.com/daisz/release-summary
+# https://github.com/DavidMachile/release-summary
 # ============================================================
 # 用法:
 #   release-summary <commit1> <commit2>     # 两个 commit 之间

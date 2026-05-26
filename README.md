@@ -5,13 +5,13 @@
 ## Quick Install
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/DavidMachile/release-summary/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/DavidMachile/release-summary/master/install.sh | bash
 ```
 
 Or download the script directly:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/DavidMachile/release-summary/main/release-summary.sh -o /usr/local/bin/release-summary
+curl -sSL https://raw.githubusercontent.com/DavidMachile/release-summary/master/release-summary.sh -o /usr/local/bin/release-summary
 chmod +x /usr/local/bin/release-summary
 ```
 
